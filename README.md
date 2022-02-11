@@ -1,3 +1,3 @@
-# Hola-mundo
-Mi primer repositorio de prueba
+# HOLA-mundo
+Mi primer repositorio
 Fecha: 11/02/2022
